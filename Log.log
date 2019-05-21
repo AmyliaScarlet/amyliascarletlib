@@ -1,0 +1,6 @@
+03-22 15:04:39:490 [main] com.amyliascarlet.lib.log.LogTest/test_JavaBean:: "11"
+03-22 15:04:39:515 [main] com.amyliascarlet.lib.log.LogTest/test_JavaBean:: (ForceParse)"(ForceParse)\"(JavaBean){\\\"age\\\":12,\\\"money\\\":0.0,\\\"name\\\":\\\"a\\\",\\\"score\\\":0}\""
+03-22 15:04:39:517 [main] com.amyliascarlet.lib.log.LogTest/test_JavaBean:: "f"
+03-22 15:04:39:518 [main] com.amyliascarlet.lib.log.LogTest/test_JavaBean:: (ForceParse)"(ForceParse)\"24\""
+03-22 15:04:39:520 [main] com.amyliascarlet.lib.log.LogTest/test_JavaBean:: "33"
+03-22 15:04:39:521 [main] com.amyliascarlet.lib.log.LogTest/test_JavaBean2:: (ForceParse)"(ForceParse)\"(JavaBean){\\\"age\\\":22,\\\"money\\\":0.0,\\\"name\\\":\\\"b\\\",\\\"score\\\":0}\""

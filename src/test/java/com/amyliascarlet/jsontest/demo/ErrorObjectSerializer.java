@@ -1,0 +1,26 @@
+package com.amyliascarlet.jsontest.demo;
+
+import java.io.IOException;
+import java.lang.reflect.Type;
+import java.util.Collections;
+import java.util.Set;
+
+import com.amyliascarlet.lib.json.serializer.AutowiredObjectSerializer;
+import com.amyliascarlet.lib.json.serializer.JSONSerializer;
+
+
+public class ErrorObjectSerializer implements AutowiredObjectSerializer {
+    
+    public ErrorObjectSerializer() {
+        throw new RuntimeException();
+    }
+
+    public void write(JSONSerializer serializer, Object object, Object fieldName, Type fieldType, int features) throws IOException {
+        
+    }
+
+    public Set<Type> getAutowiredFor() {
+        return Collections.<Type>singleton(X.class);
+    }
+
+}
