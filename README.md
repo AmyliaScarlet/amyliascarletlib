@@ -6,11 +6,10 @@
 [![GitHub release](https://img.shields.io/github/release/alibaba/fastjson.svg)](https://github.com/alibaba/fastjson/releases)
 [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
-amyliascarletlib is a Java library ,Include Log Class, EasyThread Class and some utils
-
+一个Java类库，主要包含Log类和EasyThread类以及其他一些工具类。此为部分源码
 
 ## Release
 
 ```
-amyliascarlet_lib_jar
+至amyliascarlet_lib_jar下载jar包使用
 ```
