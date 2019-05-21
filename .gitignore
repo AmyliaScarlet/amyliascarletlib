@@ -7,3 +7,4 @@
 *.iml
 
 /bin/
+/src/main/java/com/amyliascarlet/lib/json/
